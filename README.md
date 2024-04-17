@@ -7,9 +7,9 @@ Backend Application Developer
 I have an experience of 6 years in mainframe application developer. But my passion is to become a Python back end developer.
 
 * 🌍  I'm based in Hyderabad
-* ✉️  You can contact me at [pukelapavani@gmail.com](mailto:pukelapavani@gmail.com)
+* ✉️  You can contact me at [pukkalipawani@gmail.com](mailto:pukkalipawani@gmail.com)
 * 🧠  I'm learning DSA with Python
-* 🤝  I'm open to collaborating on python backend projects
+* 🤝  I'm open to collaborating on python cloud devopes projects.
 
 ### Skills
 
